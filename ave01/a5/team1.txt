@@ -1,0 +1,3 @@
+Squirtle:Brave:Bold:75
+Charmander:Adamant:Impish:67
+   
